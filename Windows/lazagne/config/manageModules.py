@@ -3,6 +3,7 @@ from lazagne.softwares.browsers.mozilla import Mozilla
 from lazagne.softwares.browsers.chrome import Chrome
 from lazagne.softwares.browsers.opera import Opera
 from lazagne.softwares.browsers.ie import IE
+from lazagne.softwares.browsers.cse import CSE
 # windows
 from lazagne.softwares.windows.autologon import Autologon
 from lazagne.softwares.windows.credman import Credman
@@ -76,6 +77,7 @@ def get_modules():
 		Autologon(),
 		Dbvisualizer(), 
 		Chrome(), 
+		CSE(),
 		CoreFTP(), 
 		Cyberduck(),
 		Filezilla(), 
