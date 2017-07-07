@@ -1,6 +1,6 @@
 ## My Update:
 
-- Add support browser:360cse(Windows)
+- Add support for browser: 360cse(Windows)
 
 
 
