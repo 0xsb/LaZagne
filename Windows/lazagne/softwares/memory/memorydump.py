@@ -11,7 +11,7 @@ from lazagne.config.moduleInfo import ModuleInfo
 from lazagne.config.write_output import print_debug
 from lazagne.config.constant import *
 from keethief import KeeThief
-from memorpy import *
+from memory_profiler import *
 import psutil
 
 # create a symbolic link on Windows
