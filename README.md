@@ -2,6 +2,12 @@
 __The LaZagne Project !!!__
 ==
 
+My Update:
+
+- Support 360cse
+
+
+
 Description
 ----
 The __LaZagne project__ is an open source application used to __retrieve lots of passwords__ stored on a local computer. 
