@@ -2,6 +2,7 @@
 
 - Add support for browser: 360cse(Windows)
 - Fix bug:ImportError: No module named memorpy
+  
   Modify LaZagne-master\Windows\lazagne\softwares\memory\memorydump.py
 
 
